@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-image:url(bck.jpg);
+	background-attachment:fixed;
+	width:1000px;
+	margin:auto;
+	}
+
+/* #pagina{width:1000px; 
+        margin:auto; 
+		}*/
+		
+#topo{width:1000px;
+	  height:200px;
+	  }
+	  
+#topo a {
+	float:left;
+	margin-left:250px;
+}
+	  
+#menu ul {
+			padding:10px;
+			margin:0px;
+			float: inherit;
+			width: 980px;
+			background-color:#EDEDED;
+			list-style:none;
+			font:97% Tahoma;
+			
+		}
+
+		#menu ul li { display: inline; }
+
+		#menu ul li a {
+			background-color:#EDEDED;
+			color: #333;
+			text-decoration:nome;
+			border-bottom:3px solid #EDEDED;
+			padding: 2px 10px;
+			float:left;
+		}
+
+		#menu ul li a:hover {
+			background-color:#D6D6D6;
+			color: #6D6D6D;
+			border-bottom:3px solid #EA0000;
+		}
+
+#contato{
+	background-image:url(transparente.png);
+	padding:17px;
+	width:492px;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	float:left;
+	
+}
+#contato h1{
+	font-size:24px;
+	margin-left:20px;
+	margin-top:0px;
+	}
+	
+#contato p{
+	font-style:italic;
+ 	margin-left:30px;
+	margin-top:0px;
+}
+#esquerdaContato{
+	background-image:url(transparente.png);
+	width:396px;
+	float:right;
+	padding:39px;
+
+}
+#esquerdaContato p{
+	 color:#FFF;
+	 font-style:inherit;
+	 font-size:21px;
+	 margin-left:30px;
+}
+
+#cadastro{
+	background-image:url(transparente.png);
+	padding:20px;
+	color:#FFF;
+	width:711px;
+	float:right;
+	
+
+}
+#CadastraEsquerda {
+	float:left;
+}
+
+.style1 {
+	color: #FFF;
+	font-size:small;
+}
+.style3 {
+	color:#960; 
+	font-size: 14px; 
+}
+.style4{
+	color:#F00;
+}
+
+
+
+#home{
+	background-image:url(transparente.png);
+	padding:17px;
+	width:492px;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	float:left;
+	
+	
+}
+
+
+#esquerdaHome{
+	background-image:url(transparente.png);
+	width:396px;
+	float:right;
+	padding:39px;
+	height:611px;
+	font-style:italic;
+}
+#esquerdaHome p{
+	
+	 color:#FFF;
+	 font-style:inheri;
+	 font-size:20px;
+	 margin-left:30px;
+}
+
+#noticias{
+	background-image:url(transparente.png);
+	width:1000px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	font-size:18px;
+	color:#930;
+}
+
+
+#fim{width:1000px;
+	 float:right;
+	 background-color:#000000;
+	 margin-top:10px;
+	 }
+	 
+#fim p{font-family:Verdana, Arial, Helvetica, sans-serif;
+		font-size:12px;
+		color:#FFFFFF;
+		text-align:center;
+		}

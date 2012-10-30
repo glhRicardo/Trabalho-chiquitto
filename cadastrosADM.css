@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#Cadastros h1{
+	color:#930;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+}
+	
+#admCadastrar1{
+	background-image:url(transparente.png);
+	padding:5px;
+	width:480px;
+	color:#FFF;
+	float:left;
+}
+
+
+#admCadastrar2{
+	background-image:url(transparente.png);
+	padding:5px;
+	width:480px;
+	float:right;
+	color:#FFF;
+}
+
+#admCadastrar3{
+	background-image:url(transparente.png);
+	padding:5px;
+	width:480px;
+	color:#FFF;
+	float:left;
+}
+
+#admCadastrar4{
+	background-image:url(transparente.png);
+	padding:5px;
+	width:480px;
+	float:right;
+	color:#FFF;
+}
+
+#admCadastrar5{
+	background-image:url(transparente.png);
+	padding:5px;
+	width:480px;
+	float:right;
+	color:#FFF;
+}
+
+	
